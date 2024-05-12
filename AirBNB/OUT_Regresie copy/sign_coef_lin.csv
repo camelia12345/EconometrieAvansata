@@ -1,0 +1,6 @@
+,Coeficienti,Erori standard,t_values,Probabilitati
+Intercept,0.0139,0.051,0.273,0.786
+price,0.2249,0.05,4.503,0.0
+person_capacity,0.2211,0.076,2.915,0.004
+cleanliness_rating,0.6451,0.053,12.24,0.0
+bedrooms,0.0008,0.074,0.011,0.991
